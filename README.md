@@ -24,6 +24,4 @@ This repository contains a simple example of a fully functional webpage with nav
 ## Live Demo
 You can view the live version of this project here: [Live Demo](https://rawcdn.githack.com/KLubina/full-fledged-webpage-example/74a22fd22ce785780eda03099a0a8951bf907ec8/index.html)
 
-## Author
-[KLubina](https://github.com/KLubina)
 
